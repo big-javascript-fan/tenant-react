@@ -1,0 +1,20 @@
+<svg width="21" height="20" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Line_Icons</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-15557 235)">
+<g id="Line_Icons">
+<g id="Group">
+<g id="Oval">
+<use xlink:href="#path0_fill" transform="translate(15564.8 -228)" fill="#FFFFFF"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(15557.8 -235)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 3 6C 4.65685 6 6 4.65685 6 3C 6 1.34315 4.65685 0 3 0C 1.34315 0 0 1.34315 0 3C 0 4.65685 1.34315 6 3 6Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 17.9307 9L 20 9L 20 11L 17.9307 11C 17.4766 14.612 14.6123 17.477 11 17.931L 11 20L 9 20L 9 17.931C 5.3877 17.478 2.52344 14.612 2.06934 11L 0 11L 0 9L 2.06934 9C 2.52344 5.388 5.38867 2.52299 9 2.069L 9 0L 11 0L 11 2.069C 14.6123 2.52299 17.4766 5.388 17.9307 9ZM 4 10C 4 13.308 6.69141 16 10 16C 13.3086 16 16 13.308 16 10C 16 6.692 13.3086 4 10 4C 6.69141 4 4 6.692 4 10Z"/>
+</defs>
+</svg>

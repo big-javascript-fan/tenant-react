@@ -1,0 +1,33 @@
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon-wifi-modem-1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-36091 -38)">
+<g id="icon-wifi-modem-1">
+<g id="Line_Icons">
+<g id="Group">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(36091.5 41.5008)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path1_fill" transform="translate(36093.8 49.0007)" fill="#DF512D"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_fill" transform="translate(36097.5 38.5008)" fill="#DF512D"/>
+</g>
+<g id="Oval">
+<use xlink:href="#path3_fill" transform="translate(36100.5 49.0007)" fill="#DF512D"/>
+</g>
+<g id="Oval">
+<use xlink:href="#path3_fill" transform="translate(36102.8 49.0007)" fill="#DF512D"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 11.25 5.25L 13.5 5.25C 14.3281 5.25 15 5.922 15 6.75L 15 9.75C 15 10.5765 14.3281 11.25 13.5 11.25L 13.5 12L 12 12L 12 11.25L 3 11.25L 3 12L 1.5 12L 1.5 11.25C 0.671875 11.25 0 10.5765 0 9.75L 0 6.75C 0 5.922 0.671875 5.25 1.5 5.25L 9.75 5.25L 9.75 2.79225C 9.30469 2.532 9 2.0535 9 1.5C 9 0.672001 9.67188 0 10.5 0C 11.3281 0 12 0.672001 12 1.5C 12 2.05425 11.6953 2.53125 11.25 2.79225L 11.25 5.25ZM 1.5 9.75L 13.4961 9.75L 13.5 6.75L 1.5 6.75L 1.5 9.75Z"/>
+<path id="path1_fill" d="M 0 0L 5.25 0L 5.25 1.5L 0 1.5L 0 0Z"/>
+<path id="path2_fill" d="M 4.5 1.5C 6.15375 1.5 7.5 2.8455 7.5 4.5L 9 4.5C 9 2.01825 6.98175 0 4.5 0C 2.01825 0 0 2.01825 0 4.5L 1.5 4.5C 1.5 2.8455 2.84625 1.5 4.5 1.5Z"/>
+<path id="path3_fill" d="M 0.75 1.5C 1.16421 1.5 1.5 1.16421 1.5 0.75C 1.5 0.335786 1.16421 0 0.75 0C 0.335786 0 0 0.335786 0 0.75C 0 1.16421 0.335786 1.5 0.75 1.5Z"/>
+</defs>
+</svg>

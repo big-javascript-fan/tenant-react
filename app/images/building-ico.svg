@@ -1,0 +1,60 @@
+<svg width="18" height="18" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>place-architecture-building-landmark-apartment-block-flat-2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-15737 69)">
+<g id="place-architecture-building-landmark-apartment-block-flat-2">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(15739.8 -68.1667)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(15738.5 -65.5)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_fill" transform="translate(15752.5 -65.5)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path3_fill" transform="translate(15740.5 -64.1667)" fill="#DE4E2A"/>
+</g>
+<g id="Rectangle-path" opacity="0.2">
+<use xlink:href="#path3_fill" transform="translate(15748.5 -64.1667)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path3_fill" transform="translate(15744.5 -64.1667)" fill="#DE4E2A"/>
+</g>
+<g id="Rectangle-path" opacity="0.2">
+<use xlink:href="#path3_fill" transform="translate(15740.5 -60.8333)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path3_fill" transform="translate(15748.5 -60.8333)" fill="#DE4E2A"/>
+</g>
+<g id="Rectangle-path" opacity="0.2">
+<use xlink:href="#path3_fill" transform="translate(15744.5 -60.8333)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path4_fill" transform="translate(15744.5 -57.5)" fill="#DE4E2A"/>
+</g>
+<g id="Rectangle-path" opacity="0.2">
+<use xlink:href="#path5_fill" transform="translate(15740.5 -57.5)"/>
+</g>
+<g id="Rectangle-path" opacity="0.2">
+<use xlink:href="#path5_fill" transform="translate(15748.5 -57.5)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path6_fill" transform="translate(15737.8 -66.8333)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path7_fill" transform="translate(15737.8 -54.1667)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 1 1.83333C 1 2.10948 0.776142 2.33333 0.5 2.33333C 0.223858 2.33333 0 2.10948 0 1.83333L 0 1.5C 0 0.690524 0.690524 0 1.5 0L 10.8333 0C 11.6428 0 12.3333 0.690524 12.3333 1.5L 12.3333 1.83333C 12.3333 2.10948 12.1095 2.33333 11.8333 2.33333C 11.5572 2.33333 11.3333 2.10948 11.3333 1.83333L 11.3333 1.5C 11.3333 1.24281 11.0905 1 10.8333 1L 1.5 1C 1.24281 1 1 1.24281 1 1.5L 1 1.83333Z"/>
+<path id="path1_fill" d="M 1 11.8333C 1 12.1095 0.776142 12.3333 0.5 12.3333C 0.223858 12.3333 0 12.1095 0 11.8333L 0 0.5C 0 0.223858 0.223858 0 0.5 0C 0.776142 0 1 0.223858 1 0.5L 1 11.8333Z"/>
+<path id="path2_fill" d="M 0 0.5C 0 0.223858 0.223858 0 0.5 0C 0.776142 0 1 0.223858 1 0.5L 1 11.8333C 1 12.1095 0.776142 12.3333 0.5 12.3333C 0.223858 12.3333 0 12.1095 0 11.8333L 0 0.5Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 2.5 0L 0.5 0C 0.223633 0 0 0.223858 0 0.5L 0 2.5C 0 2.77614 0.223633 3 0.5 3L 2.5 3C 2.77637 3 3 2.77614 3 2.5L 3 0.5C 3 0.223858 2.77637 0 2.5 0ZM 2 2L 1 2L 1 1L 2 1L 2 2Z"/>
+<path id="path4_fill" d="M 1 3.83333C 1 4.10948 0.776142 4.33333 0.5 4.33333C 0.223858 4.33333 0 4.10948 0 3.83333L 0 0.5C 0 0.223858 0.223858 0 0.5 0L 2.5 0C 2.77614 0 3 0.223858 3 0.5L 3 3.83333C 3 4.10948 2.77614 4.33333 2.5 4.33333C 2.22386 4.33333 2 4.10948 2 3.83333L 2 1L 1 1L 1 3.83333Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 2.5 0L 0.5 0C 0.223633 0 0 0.223858 0 0.5L 0 2.5C 0 2.77614 0.223633 3 0.5 3L 2.5 3C 2.77637 3 3 2.77614 3 2.5L 3 0.5C 3 0.223858 2.77637 0 2.5 0ZM 1 2L 1 1L 2 1L 2 2L 1 2Z"/>
+<path id="path6_fill" fill-rule="evenodd" d="M 15.833 0L 0.5 0C 0.223633 0 0 0.223854 0 0.5L 0 1.83334C 0 2.10947 0.223633 2.33334 0.5 2.33334L 15.833 2.33334C 16.1094 2.33334 16.333 2.10947 16.333 1.83334L 16.333 0.5C 16.333 0.223854 16.1094 0 15.833 0ZM 15.333 1.33334L 1 1.33334L 1 1L 15.333 1L 15.333 1.33334Z"/>
+<path id="path7_fill" fill-rule="evenodd" d="M 15.833 0L 0.5 0C 0.223633 0 0 0.223858 0 0.5L 0 1.83333C 0 2.10947 0.223633 2.33333 0.5 2.33333L 15.833 2.33333C 16.1094 2.33333 16.333 2.10947 16.333 1.83333L 16.333 0.5C 16.333 0.223858 16.1094 0 15.833 0ZM 1 1.33333L 1 1L 15.333 1L 15.333 1.33333L 1 1.33333Z"/>
+</defs>
+</svg>

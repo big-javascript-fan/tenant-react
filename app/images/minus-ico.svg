@@ -1,0 +1,18 @@
+<svg width="19" height="18" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>button - minus</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-112 -81)">
+<g id="button - minus">
+<g id="Oval">
+<use xlink:href="#path0_fill" transform="translate(112.344 81)" fill="#DE4E2A"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(116.197 89.625)" fill="#DE4E2A"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 9C 0 13.9706 4.14068 18 9.24847 18C 14.3563 18 18.4969 13.9706 18.4969 9C 18.4969 4.02943 14.3563 0 9.24847 0C 4.14068 0 0 4.02943 0 9ZM 17.7262 9C 17.7262 13.5564 13.9306 17.25 9.24847 17.25C 4.56633 17.25 0.770706 13.5564 0.770706 9C 0.770706 4.44365 4.56633 0.75 9.24847 0.75C 13.9306 0.75 17.7262 4.44365 17.7262 9Z"/>
+<path id="path1_fill" d="M 0.385353 0.75C 0.172528 0.75 0 0.582107 0 0.375C 0 0.167893 0.172528 0 0.385353 0L 10.4045 0C 10.6173 0 10.7899 0.167893 10.7899 0.375C 10.7899 0.582107 10.6173 0.75 10.4045 0.75L 0.385353 0.75Z"/>
+</defs>
+</svg>

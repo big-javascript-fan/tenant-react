@@ -1,0 +1,12 @@
+<svg width="14" height="8" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>forward arrow copy 5</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3638 -52)">
+<g id="forward arrow copy 5">
+<use xlink:href="#path0_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 3638.01 53.5899)" fill="#6C727C"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 9.56922 8.6733C 9.56914 8.25182 9.22218 7.91307 8.80089 7.92316L 1.53639 8.09725L 1.50085 0.746839C 1.49887 0.333803 1.1635 4.85532e-05 0.750503 0.000107896C 0.334531 3.23688e-05 -0.00200147 0.338292 -5.3948e-05 0.754117L 0.0383462 8.67826C 0.0400024 9.04156 0.299929 9.34372 0.643532 9.41099C 0.781164 9.53679 0.965922 9.61202 1.16759 9.60716L 8.83686 9.42328C 9.24423 9.41365 9.56925 9.08069 9.56922 8.6733Z"/>
+</defs>
+</svg>

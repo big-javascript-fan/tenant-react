@@ -1,0 +1,22 @@
+<svg width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>button - Plus</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(142 -80)">
+<g id="button - Plus">
+<g id="Oval">
+<use xlink:href="#path0_fill" transform="translate(-141.878 80.6087)" fill="#DE4E2A"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(-137.857 89.2174)" fill="#DE4E2A"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_fill" transform="translate(-133.031 84.5217)" fill="#DE4E2A"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 9.3913C 0 14.578 4.32071 18.7826 9.65057 18.7826C 14.9804 18.7826 19.3011 14.578 19.3011 9.3913C 19.3011 4.20463 14.9804 0 9.65057 0C 4.32071 0 0 4.20463 0 9.3913ZM 18.4969 9.3913C 18.4969 14.1458 14.5363 18 9.65057 18C 4.76486 18 0.804214 14.1458 0.804214 9.3913C 0.804214 4.63686 4.76486 0.782608 9.65057 0.782608C 14.5363 0.782608 18.4969 4.63686 18.4969 9.3913Z"/>
+<path id="path1_fill" d="M 0.402107 0.782609C 0.18003 0.782609 0 0.607416 0 0.391304C 0 0.175193 0.18003 0 0.402107 0L 10.8569 0C 11.079 0 11.259 0.175193 11.259 0.391304C 11.259 0.607416 11.079 0.782609 10.8569 0.782609L 0.402107 0.782609Z"/>
+<path id="path2_fill" d="M 0 0.391304C 0 0.175193 0.18003 0 0.402107 0C 0.624185 0 0.804214 0.175193 0.804214 0.391304L 0.804214 10.5652C 0.804214 10.7813 0.624185 10.9565 0.402107 10.9565C 0.18003 10.9565 0 10.7813 0 10.5652L 0 0.391304Z"/>
+</defs>
+</svg>

@@ -1,0 +1,19 @@
+# This is a sample build configuration for JavaScript.
+# Check our guides at https://confluence.atlassian.com/x/14UWN for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: node:8
+
+pipelines:
+  default:
+    - step:
+        name: Packaging
+        caches:
+          - node
+        script:
+          - yarn install
+          - yarn build
+          - tar -czf release.tar.gz build
+          - curl -sS -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"release.tar.gz"
+          - curl -sS -X POST --header "Content-Type:application/json" "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/vaesoftware/vae-tenant-portal-api/pipelines/" --data '{"target":{"ref_type":"branch","type":"pipeline_ref_target","ref_name":"master"}}'

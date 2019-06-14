@@ -1,0 +1,17 @@
+<svg width="13" height="13" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="icon-user-2">
+<g id="Line_Icons">
+<g id="Group">
+<g id="Shape">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 0 3C 0 4.6545 1.3457 6 3 6C 4.6543 6 6 4.6545 6 3C 6 1.34625 4.6543 0 3 0C 1.3457 0 0 1.34625 0 3ZM 1.5 3C 1.5 2.172 2.17188 1.5 3 1.5C 3.82812 1.5 4.5 2.172 4.5 3C 4.5 3.82725 3.82812 4.5 3 4.5C 2.17188 4.5 1.5 3.82725 1.5 3Z" transform="translate(3.00195 0.00450134)" fill="#DE4E2A"/>
+</g>
+<g id="Shape_2">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 0 4.5L 0 5.25L 12 5.25L 12 4.5C 12 1.85025 9.5332 0 6 0C 2.4668 0 0 1.85025 0 4.5ZM 6 1.5C 8.25586 1.5 9.93359 2.394 10.3809 3.75L 1.61914 3.75C 2.06836 2.394 3.74414 1.5 6 1.5Z" transform="translate(0.00195312 6.7545)" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
+

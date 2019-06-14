@@ -1,0 +1,20 @@
+<svg width="17" height="17" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Filled_Icons</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-6433 219)">
+<g id="Filled_Icons">
+<g id="Group">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(6437 -218.994)" fill="#FFFFFF"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(6433 -209.994)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 4 8C 6.206 8 8 6.205 8 4C 8 1.795 6.206 0 4 0C 1.794 0 0 1.795 0 4C -1.77636e-15 6.205 1.795 8 4 8Z"/>
+<path id="path1_fill" d="M 8 0C 3.29 0 0 2.467 0 6L 0 7L 16 7L 16 6C 16 2.467 12.711 0 8 0Z"/>
+</defs>
+</svg>

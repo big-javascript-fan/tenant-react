@@ -1,0 +1,23 @@
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="icon-email-document">
+<g id="Line_Icons">
+<g id="Group">
+<g id="Shape">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 1.5 9.00014L 13.5 9.00014C 14.3281 9.00014 15 8.32738 15 7.49939L 15 0.749386C 15 0.459137 14.832 0.193634 14.5684 0.0706367C 14.3047 -0.0523643 13.9941 -0.0126152 13.7695 0.173386L 9.47852 3.75014L 5.52148 3.75014L 1.23047 0.174137C 1.00781 -0.0118637 0.695312 -0.0523643 0.431641 0.0713844C 0.167969 0.194386 0 0.459137 0 0.750137L 0 7.50014C 0 8.32738 0.671875 9.00014 1.5 9.00014ZM 1.5 7.50014L 1.5 2.35139L 4.76953 5.07689C 4.9043 5.18864 5.07617 5.25014 5.25 5.25014L 9.75 5.25014C 9.92578 5.25014 10.0957 5.18864 10.2305 5.07689L 13.5 2.35139L 13.502 7.50014L 1.5 7.50014Z" transform="translate(0.498047 6.49986)" fill="black"/>
+</g>
+<g id="Shape_2">
+<path d="M 12 5.25L 10.5 5.25L 10.5 1.5L 1.5 1.5L 1.5 5.25L 0 5.25L 0 0L 12 0L 12 5.25Z" transform="translate(1.99805 0.5)" fill="#DE4E2A"/>
+</g>
+<g id="Rectangle-path">
+<path d="M 0 0L 6 0L 6 1.5L 0 1.5L 0 0Z" transform="translate(4.99805 3.5)" fill="#DE4E2A"/>
+</g>
+<g id="Rectangle-path_2">
+<path d="M 0 0L 4.5 0L 4.5 1.5L 0 1.5L 0 0Z" transform="translate(4.99805 5.75)" fill="#DE4E2A"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
+

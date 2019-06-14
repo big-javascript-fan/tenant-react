@@ -1,0 +1,22 @@
+<svg width="18" height="18" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>synchronize-3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-16341 -242)">
+<g id="synchronize-3">
+<g id="Line_Icons">
+<g id="Group">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(16342.5 242.667)" fill="#333333"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(16341.7 251)" fill="#333333"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2.7925 3.62583C 4.02 2.3925 5.69 1.66667 7.5 1.66667C 11.1758 1.66667 14.1667 4.6575 14.1667 8.33333L 15.8333 8.33333C 15.8333 3.7375 12.095 0 7.5 0C 5.2375 0 3.14917 0.9075 1.615 2.44833L 0 0.833333L 0 5.83333L 5 5.83333L 2.7925 3.62583Z"/>
+<path id="path1_fill" d="M 13.0408 4.7075C 11.8133 5.94083 10.1442 6.66667 8.33333 6.66667C 4.6575 6.66667 1.66667 3.67583 1.66667 0L 0 0C 0 4.59583 3.73833 8.33333 8.33333 8.33333C 10.5967 8.33333 12.6842 7.42583 14.2192 5.885L 15.8333 7.5L 15.8333 2.5L 10.8333 2.5L 13.0408 4.7075Z"/>
+</defs>
+</svg>

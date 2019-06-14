@@ -1,0 +1,23 @@
+<svg width="14" height="18" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="icon-file-notes-document">
+<g id="Line_Icons">
+<g id="Group">
+<g id="Rectangle-path">
+<path d="M 0 0L 7.5 0L 7.5 1.5L 0 1.5L 0 0Z" transform="translate(3.25 9.75)" fill="#DF512D"/>
+</g>
+<g id="Rectangle-path_2">
+<path d="M 0 0L 6 0L 6 1.5L 0 1.5L 0 0Z" transform="translate(3.25 6.75)" fill="#DF512D"/>
+</g>
+<g id="Rectangle-path_3">
+<path d="M 0 0L 7.5 0L 7.5 1.5L 0 1.5L 0 0Z" transform="translate(3.25 12.75)" fill="#DF512D"/>
+</g>
+<g id="Shape">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 10.5 1.5L 12 1.5C 12.8281 1.5 13.5 2.172 13.5 3L 13.5 16.5C 13.5 17.3273 12.8281 18 12 18L 1.5 18C 0.671875 18 0 17.3273 0 16.5L 0 3C 0 2.172 0.671875 1.5 1.5 1.5L 3 1.5L 3 0.75C 3 0.336 3.33594 0 3.75 0C 4.16406 0 4.5 0.336 4.5 0.75L 4.5 1.5L 6 1.5L 6 0.75C 6 0.336 6.33594 0 6.75 0C 7.16406 0 7.5 0.336 7.5 0.75L 7.5 1.5L 9 1.5L 9 0.75C 9 0.336 9.33594 0 9.75 0C 10.1641 0 10.5 0.336 10.5 0.75L 10.5 1.5ZM 1.5 3L 1.5 16.5L 12 16.5L 12 3L 10.5 3L 10.5 3.75C 10.5 4.16475 10.1641 4.5 9.75 4.5C 9.33594 4.5 9 4.16475 9 3.75L 9 3L 7.5 3L 7.5 3.75C 7.5 4.16475 7.16406 4.5 6.75 4.5C 6.33594 4.5 6 4.16475 6 3.75L 6 3L 4.5 3L 4.5 3.75C 4.5 4.16475 4.16406 4.5 3.75 4.5C 3.33594 4.5 3 4.16475 3 3.75L 3 3L 1.5 3Z" transform="translate(0.25 0)" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
+

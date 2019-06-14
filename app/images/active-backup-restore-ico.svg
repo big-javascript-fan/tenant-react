@@ -1,0 +1,16 @@
+<svg width="21" height="17" viewBox="0 0 21 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>folder-bookmark</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-30838 233)">
+<g id="folder-bookmark">
+<g id="Line_Icons">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(30838.2 -233)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 9.75 3L 18 3C 19.1035 3 20 3.89799 20 5L 20 15C 20 16.103 19.1035 17 18 17L 2 17C 0.896484 17 0 16.103 0 15L 0 2C 0 0.897995 0.896484 0 2 0L 6.5 0C 7.12695 0 7.72461 0.298996 8.09961 0.800003L 9.75 3ZM 2 2L 2 15L 18.002 15L 18 5L 9.75 5C 9.12305 5 8.52539 4.701 8.15039 4.2L 7 2.66701L 7 10L 5 8L 3 10L 3 2L 2 2Z"/>
+</defs>
+</svg>

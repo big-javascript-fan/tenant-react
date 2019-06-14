@@ -1,0 +1,25 @@
+{
+  "mode": "development",
+  "serverUrl": "https://afterhours.kalicode.com",
+  "api" : {
+    "users": "/api/users",
+    "login": "/api/users/login",
+    "logout": "/api/users/gone",
+    "admin_list": "/api/admin?",
+    "admin_action": "/api/admin",
+    "companies_list": "/api/companies",
+    "companies_action": "/api/companies/",
+    "zonemapping_devices": "/api/devices",
+    "zonemapping_levels": "/api/levels",
+    "zonemapping_zones": "/api/zones/",
+    "settings": "/api/settings",
+    "permissions": "/api/permissions",
+    "requests": "/api/requests",
+    "backups": "/api/databases/backups",
+    "restore": "/api/databases/restore",
+    "reports": "/api/reports",
+    "bacnets": "/api/bacnets/",
+    "datacollector": "/api/collectors/",
+    "notifications": "/api/users/notifications"
+  }
+}
