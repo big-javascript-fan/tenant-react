@@ -27,9 +27,3 @@ File `index.html` is in "/build" folder
 $ yarn run build
 ```
 
-Deployement
-====================
-This app is part of [VAE Tenant Portal - API](https://bitbucket.org/vaesoftware/vae-tenant-portal-api/src/master/). 
-When make change to this repo, ensure all well tested and [pipeline](https://bitbucket.org/vaesoftware/vae-tenant-portal-datacollector/addon/pipelines/home)
-run successfully. After that, start deploying or updating production box throught [VAE Tenant Portal - API](https://bitbucket.org/vaesoftware/vae-tenant-portal-api/src/master/). 
-There is a `README.md` file to guide.
